@@ -1,0 +1,11 @@
+*.pem
+gin-bin
+bin/
+sync
+deploy.lin*
+api
+public
+config.json
+public/
+public
+tmp/
